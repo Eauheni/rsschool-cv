@@ -27,6 +27,7 @@ return a * b;
 * Codecademy
 * Codewars
 
-## I work as a QA engineer.
+## Education 
+I work as a QA engineer.
  I want to become a programmer because QA Engineer is doing the same routine work all the time and it becomes boring after some time.
  I want to develop myself in programming and gain invaluable experience.
