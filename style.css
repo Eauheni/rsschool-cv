@@ -1,0 +1,59 @@
+.wrapper{
+    max-width: 1024px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+.photo{
+    width: 250px;
+    /* height: 250px; */ 
+    text-align: right;
+}
+
+.user-contacts{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contacts{
+    width: 300px;
+    text-align: left;
+}
+
+.Aboutme{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+
+li{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+.example{
+    text-align: left;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+
+
+
+
+
+
+
